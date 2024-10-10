@@ -1,0 +1,22 @@
+C:\Users\chierchg\Corsi\Cours GL\Esercizi\TP1_Demineur\Demineur\bin\Debug\Demineur.exe.config
+C:\Users\chierchg\Corsi\Cours GL\Esercizi\TP1_Demineur\Demineur\obj\Debug\IHM.Fenetre.resources
+C:\Users\chierchg\Corsi\Cours GL\Esercizi\TP1_Demineur\Demineur\obj\Debug\Demineur.Properties.Resources.resources
+C:\Users\chierchg\Corsi\Cours GL\Esercizi\TP1_Demineur\Demineur\obj\Debug\Demineur.csproj.GenerateResource.Cache
+C:\Users\chierchg\Corsi\Cours GL\Esercizi\TP1_Demineur\Demineur\obj\Debug\Demineur.csprojResolveAssemblyReference.cache
+C:\Users\chierchg\Corsi\Cours GL\Esercizi\TP1_Demineur\Demineur\bin\Debug\Demineur.exe
+C:\Users\chierchg\Corsi\Cours GL\Esercizi\TP1_Demineur\Demineur\bin\Debug\Demineur.pdb
+C:\Users\chierchg\Corsi\Cours GL\Esercizi\TP1_Demineur\Demineur\obj\Debug\Demineur.exe
+C:\Users\chierchg\Corsi\Cours GL\Esercizi\TP1_Demineur\Demineur\obj\Debug\Demineur.pdb
+C:\Users\chierchg\Corsi\GL\Esercizi\TP1_Demineur\Demineur\bin\Debug\Demineur.exe.config
+C:\Users\chierchg\Corsi\GL\Esercizi\TP1_Demineur\Demineur\obj\Debug\Demineur.exe
+C:\Users\chierchg\Corsi\GL\Esercizi\TP1_Demineur\Demineur\obj\Debug\Demineur.pdb
+U:\E4FI\TP1_Demineur\Demineur\bin\Debug\Demineur.exe.config
+U:\E4FI\TP1_Demineur\Demineur\bin\Debug\Demineur.exe
+U:\E4FI\TP1_Demineur\Demineur\bin\Debug\Demineur.pdb
+U:\E4FI\TP1_Demineur\Demineur\obj\Debug\Demineur.csprojResolveAssemblyReference.cache
+U:\E4FI\TP1_Demineur\Demineur\obj\Debug\IHM.Fenetre.resources
+U:\E4FI\TP1_Demineur\Demineur\obj\Debug\Demineur.Properties.Resources.resources
+U:\E4FI\TP1_Demineur\Demineur\obj\Debug\Demineur.csproj.GenerateResource.cache
+U:\E4FI\TP1_Demineur\Demineur\obj\Debug\Demineur.csproj.CoreCompileInputs.cache
+U:\E4FI\TP1_Demineur\Demineur\obj\Debug\Demineur.exe
+U:\E4FI\TP1_Demineur\Demineur\obj\Debug\Demineur.pdb
